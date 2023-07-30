@@ -81,7 +81,7 @@ When DBSCAN yielded the optimal clustering result, it showcased its capability t
 
 ![image](https://github.com/irfan7210/online-retail-customer-segmentation/assets/113547056/a7f39a51-a20f-40d7-86c9-869da2ba022b)
 
-**ML Model**
+**Conclusion**
 
 
 *   related to customer segmentation and targeting. By analyzing customer behavior in terms of their recency of purchase, frequency of purchase, and monetary value of purchase, businesses can identify and target high-value customers, personalize marketing campaigns, and improve customer retention.
